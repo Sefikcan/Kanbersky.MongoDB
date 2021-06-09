@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Kanbersky.MongoDB</id>
+    <version>1.0.0.0</version> 
+    <title>Kanbersky MongoDB Infrastructure</title>
+    <authors>Sefik Can Kanber</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/Sefikcan/Kanbersky.MongoDB</projectUrl>
+    <description>This package is used in mongodb crud operations.</description>
+    <releaseNotes>Add mongoDB generic repository methods</releaseNotes>
+    <copyright>Copyright 2021</copyright>
+    <tags>MongoDB NoSQL</tags>
+    <dependencies>
+      <dependency id="MongoDB.Driver" version="2.12.4"></dependency>
+      <dependency id="Microsoft.Extensions.Configuration.Abstractions" version="5.0.0"></dependency>
+      <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="5.0.0"></dependency>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Debug\net5.0\Kanbersky.MongoDB.dll" target="bin\Debug\net5.0\Kanbersky.MongoDB.dll"></file>
+    <file src="bin\Release\net5.0\Kanbersky.MongoDB.dll" target="bin\Release\net5.0\Kanbersky.MongoDB.dll"></file>
+  </files>
+</package>

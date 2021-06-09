@@ -1,0 +1,11 @@
+D:\WorkSpaces\Back-end\MyNuget\Kanbersky.MongoDB\src\Kanbersky.MongoDB\bin\Release\net5.0\Kanbersky.MongoDB.deps.json
+D:\WorkSpaces\Back-end\MyNuget\Kanbersky.MongoDB\src\Kanbersky.MongoDB\bin\Release\net5.0\Kanbersky.MongoDB.dll
+D:\WorkSpaces\Back-end\MyNuget\Kanbersky.MongoDB\src\Kanbersky.MongoDB\bin\Release\net5.0\ref\Kanbersky.MongoDB.dll
+D:\WorkSpaces\Back-end\MyNuget\Kanbersky.MongoDB\src\Kanbersky.MongoDB\bin\Release\net5.0\Kanbersky.MongoDB.pdb
+D:\WorkSpaces\Back-end\MyNuget\Kanbersky.MongoDB\src\Kanbersky.MongoDB\obj\Release\net5.0\Kanbersky.MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpaces\Back-end\MyNuget\Kanbersky.MongoDB\src\Kanbersky.MongoDB\obj\Release\net5.0\Kanbersky.MongoDB.AssemblyInfoInputs.cache
+D:\WorkSpaces\Back-end\MyNuget\Kanbersky.MongoDB\src\Kanbersky.MongoDB\obj\Release\net5.0\Kanbersky.MongoDB.AssemblyInfo.cs
+D:\WorkSpaces\Back-end\MyNuget\Kanbersky.MongoDB\src\Kanbersky.MongoDB\obj\Release\net5.0\Kanbersky.MongoDB.csproj.CoreCompileInputs.cache
+D:\WorkSpaces\Back-end\MyNuget\Kanbersky.MongoDB\src\Kanbersky.MongoDB\obj\Release\net5.0\Kanbersky.MongoDB.dll
+D:\WorkSpaces\Back-end\MyNuget\Kanbersky.MongoDB\src\Kanbersky.MongoDB\obj\Release\net5.0\ref\Kanbersky.MongoDB.dll
+D:\WorkSpaces\Back-end\MyNuget\Kanbersky.MongoDB\src\Kanbersky.MongoDB\obj\Release\net5.0\Kanbersky.MongoDB.pdb
