@@ -1,7 +1,7 @@
 # Kanbersky.MongoDB
- -> Yüklenilen projenin Startup.cs sınıfının ConfigureServices metoduna 
+ * YÃ¼klenilen projenin Startup.cs sÃ½nÃ½fÃ½nÃ½n ConfigureServices metoduna 
     services.RegisterKanberskyMongoDB(configuration) eklenir.
- -> AppSettings.json dosyasına aşağıdaki formatta ekleme yapılmalıdır.
+ * AppSettings.json dosyasÃ½na aÃ¾aÃ°Ã½daki formatta ekleme yapÃ½lmalÃ½dÃ½r.
     "MongoDBSettings": {
         "ConnectionStrings": "mongodb://localhost:27017",
         "DatabaseName": "DatabaseName"
